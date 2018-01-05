@@ -15,3 +15,4 @@ checkbox appears if attribute "skipFeatureDeployment" in your solution manifest 
 3. Web part successfully added to all sites!
 
 
+http://ivanovdka.blogspot.ru/2018/01/how-to-programatically-add-spfx-web.html 
